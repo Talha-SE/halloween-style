@@ -1,0 +1,26 @@
+{
+  "name": "responsive-halloween-website",
+  "version": "1.0.0",
+  "description": "A spooky and interactive Halloween-themed responsive website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 3000",
+    "build": "echo 'No build process needed for static site'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "halloween",
+    "responsive",
+    "website",
+    "javascript",
+    "css",
+    "html"
+  ],
+  "author": "Bedimcode",
+  "license": "MIT",
+  "homepage": "https://github.com/bedimcode/responsive-halloween-website",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bedimcode/responsive-halloween-website.git"
+  }
+}
